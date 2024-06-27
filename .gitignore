@@ -1,0 +1,36 @@
+# Dependencias instaladas con npm
+node_modules/
+
+# Archivo de variables de entorno
+.env
+
+# Archivos de log
+logs/
+*.log*
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.orig
+
+# Archivos temporales
+.tmp/
+.temp/
+
+# Carpeta de construcción de distribuciones
+dist/
+out/
+build/
+
+# Archivos de configuración personalizados
+.DS_Store
+.vscode/
+.idea/
+
+# Archivos de caché
+*.cache
+
+# Archivos de respaldo de pruebas
+coverage/
+
+# Cualquier archivo o carpeta que desees ignorar específicamente
