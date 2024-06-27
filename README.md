@@ -35,7 +35,16 @@
 
 # 📖 FocusBuddy <a name="about-project"></a>
 
-**FocusBuddy** is an application designed to help individuals with ADHD (Attention Deficit Hyperactivity Disorder) manage their daily tasks and improve their focus.
+**FocusBuddy** is an application specifically designed to assist individuals diagnosed with ADHD (Attention Deficit Hyperactivity Disorder) manage their daily tasks and enhancing their focus. Living with ADHD can present challenges in organizing tasks and maintaining concentration over time. FocusBuddy aims to alleviate these challenges by providing structured task management capabilities and features that promote sustained attention.
+
+By leveraging its user-friendly interface and intuitive task management system, FocusBuddy enables users to:
+
+- **Create and Organize Tasks**: Easily create, edit, and categorize tasks based on priority and deadlines.
+- **Track Progress**: Monitor task completion and review task history to evaluate productivity over time.
+- **Receive Reminders**: Set reminders for important tasks to help maintain focus and reduce forgetfulness.
+- **Enhance Focus**: Utilize features to minimize distractions and optimize workflow efficiency.
+
+FocusBuddy integrates seamlessly into daily routines, offering a supportive toolset tailored to the unique needs of individuals with ADHD. Whether at work, school, or home, FocusBuddy strives to empower users to achieve greater productivity and success in their daily lives.
 
 ## 🛠 Built With <a name="built-with"></a>
 
